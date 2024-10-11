@@ -1,7 +1,7 @@
 # TurtleRacing
 This program uses Python's built-in turtle module to make an automated turtle race.
 
-INSTRUCTIONS
+INSTRUCTIONS:
 Overall, it is pretty self-explanatory.
 
 1. When the program starts, type in a number between 2 and 14 (inclusive) for the number of turtles that should race. Numbers with decimals will be truncated.
