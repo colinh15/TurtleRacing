@@ -2,7 +2,7 @@
 This program uses Python's built-in turtle module to make an automated turtle race.
 
 INSTRUCTIONS:
-Overall, it is pretty self-explanatory.
+   Overall, it is pretty self-explanatory.
 
 1. When the program starts, type in a number between 2 and 14 (inclusive) for the number of turtles that should race. Numbers with decimals will be truncated.
 2. Type in the color of the turtle that you think will win the race.  The turtles' colors will be shown in the dialog window.  Capitalization does not matter.
